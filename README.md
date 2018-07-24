@@ -7,6 +7,10 @@ This project is a continuation of [Model Loader](https://github.com/Cabrra/Model
 
 * [Visual Studio](https://visualstudio.microsoft.com/) 					- For C++ development
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/Cabrra/Contributing-template/blob/master/Contributing-template.md) for details on the code of conduct, and the process for submitting pull requests to me.
+
 ## Author
 
 * **Jagoba "Jake" Marcos**
